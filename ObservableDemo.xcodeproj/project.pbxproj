@@ -14,6 +14,7 @@
 		F31E8FDA2AFE70340036909B /* ObservableDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F31E8FD92AFE70340036909B /* ObservableDemoTests.swift */; };
 		F31E8FE42AFE70340036909B /* ObservableDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F31E8FE32AFE70340036909B /* ObservableDemoUITests.swift */; };
 		F31E8FE62AFE70340036909B /* ObservableDemoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F31E8FE52AFE70340036909B /* ObservableDemoUITestsLaunchTests.swift */; };
+		F31E8FF32AFE70E40036909B /* TimerData.swift in Sources */ = {isa = PBXBuildFile; fileRef = F31E8FF22AFE70E40036909B /* TimerData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		F31E8FDF2AFE70340036909B /* ObservableDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ObservableDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F31E8FE32AFE70340036909B /* ObservableDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObservableDemoUITests.swift; sourceTree = "<group>"; };
 		F31E8FE52AFE70340036909B /* ObservableDemoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObservableDemoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F31E8FF22AFE70E40036909B /* TimerData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				F31E8FCA2AFE70320036909B /* ContentView.swift */,
 				F31E8FCC2AFE70330036909B /* Assets.xcassets */,
 				F31E8FCE2AFE70330036909B /* Preview Content */,
+				F31E8FF22AFE70E40036909B /* TimerData.swift */,
 			);
 			path = ObservableDemo;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				F31E8FCB2AFE70320036909B /* ContentView.swift in Sources */,
 				F31E8FC92AFE70320036909B /* ObservableDemoApp.swift in Sources */,
+				F31E8FF32AFE70E40036909B /* TimerData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
