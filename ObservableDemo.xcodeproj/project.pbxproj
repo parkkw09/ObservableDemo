@@ -98,12 +98,11 @@
 		F31E8FC72AFE70320036909B /* ObservableDemo */ = {
 			isa = PBXGroup;
 			children = (
+				F3BCDDEA2B08F5B000CE0311 /* View */,
 				F31E8FC82AFE70320036909B /* ObservableDemoApp.swift */,
-				F31E8FCA2AFE70320036909B /* ContentView.swift */,
 				F31E8FCC2AFE70330036909B /* Assets.xcassets */,
 				F31E8FCE2AFE70330036909B /* Preview Content */,
 				F31E8FF22AFE70E40036909B /* TimerData.swift */,
-				F3BCDDE82B08F47400CE0311 /* SecondView.swift */,
 			);
 			path = ObservableDemo;
 			sourceTree = "<group>";
@@ -131,6 +130,15 @@
 				F31E8FE52AFE70340036909B /* ObservableDemoUITestsLaunchTests.swift */,
 			);
 			path = ObservableDemoUITests;
+			sourceTree = "<group>";
+		};
+		F3BCDDEA2B08F5B000CE0311 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				F3BCDDE82B08F47400CE0311 /* SecondView.swift */,
+				F31E8FCA2AFE70320036909B /* ContentView.swift */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
