@@ -22,7 +22,7 @@ struct ContentView: View {
                     .fontWeight(.bold)
                     .padding()
                 Button(action : resetCount) {
-                    Text("Reest Counter")
+                    Text("Reset Counter")
                 }
             }
         }
